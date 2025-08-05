@@ -7,9 +7,7 @@
 3. Opens the TOR browser from the folder on the desktop
 4. Connect to TOR and browse a few sites. For example:
    - **WARNING: The links to onion sites change a lot and these have changed. However if you connect to Tor and browse around normal sites a bit, the necessary logs should still be created:**
-   - Current Dread Forum: ```dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion```
-   - Dark Markets Forum: ```dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/DarkNetMarkets```
-   - Current Elysium Market: ```elysiumutkwscnmdohj23gkcyp3ebrf4iio3sngc5tvcgyfp4nqqmwad.top/login```
+   - Example TOR URL: ```dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion```
 
 6. Create a folder on your desktop called ```tor-shopping-list.txt``` and put a few fake (illicit) items in there
 7. Delete the file.
